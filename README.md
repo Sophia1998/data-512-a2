@@ -65,7 +65,7 @@ As I mentioned above, a researcher should consider internet-access, wikipedia-ac
 
 One thing that surprises me mostly is that North Korea has the most high quality politican article percentage but low total article percentage. I assume this phoenomenon could be a reflectoin of governance of NOrth Korea. In addition, I realize that Oceania is the reagion with highest total article percentage. I think this is because most countries from Oceanis speak English and have small populations, such as Tuvalu, the top 1 highest-ranked country in terms of number of politician articles as a proportion of country population. 
 
-# User Guildlines
+# User Guidelines
 
 The jupyter notebook contained in this project is recommneded to be run in Google Colab. 
 
